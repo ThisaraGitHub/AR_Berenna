@@ -1,0 +1,55 @@
+﻿{
+"locationDetails":[
+
+	{
+	"tittle":"Trasa do narciarstwa biegowego",
+	"description":"2.5 kilometrowa trasa rekreacyjna oraz 6 kilometrowa trasa turystyczna do narciarstwa biegowego znajdują się na samym końcu doliny Leśnicy. Jedna z nich prowadzi w kierunku Przełęczy Salmopolskiej. Bardzo ciekawe i świetnie przygotowane trasy - średni poziom trudności. Idealne również na spacer."
+	},
+	{
+	"tittle":"Stok narciarski Pod Starym Groniem",
+	"description":"Położony jest w samym centrum Brennej u stóp Starego Gronia nad brzegiem Brennicy. Wyposażony w trasę zjazdową o długości 631m przeznaczoną dla narciarzy średnio jeżdżących i zaawansowanych oraz w mini wyciąg narciarski o długości 120m."
+	},
+	{
+	"tittle":"Stok narciarski Świniorka Dolina Leśnicy",
+	"description":"Dysponuje naśnieżanymi trasami zjazdowymi, obsługiwanymi przez wyciągi talerzykowe, wyciąg zaczepowy oraz taśmę narciarską obsługującą zarówno tor do jazdy 'na oponach', jak i trasę do nauki jazdy na nartach. "
+	},
+	{
+	"tittle":"Szczyt Trzy Kopce Wiślańskie",
+	"description":"Wysokość 810 m n.p.m. Szczyt w paśmie Równicy. Trzy Kopce Wiślańskie stanowią jeden z ciekawszych punktów widokowych w okolicach Brennej. Ze szczytu widać m.in. Orłową, Równicę, Skrzyczne, Stary Groń w Brennej. Miejsce cechuje się imponująca panoramą. Na Trzy Kopce Wiślańskie prowadzą szlaki zielony (z Brennej centrum) i zielony (z Brennej Leśnicy)."
+	},
+	{
+	"tittle":"Szczyt Błatnia",
+	"description":"Wysokość 917 m n.p.m. Szczyt górski w grupie Klimczoka w Paśmie Wiślańskim Beskidu Śląskiego. Ze szczytu Błotnego roztaczają się piękne widoki na Beskid Śląski, Beskid Żywiecki oraz Beskid Śląsko-Morawski, a przy ładnej pogodzie widać nawet wierzchołki słowackiej Małej Fatry. Panorama obejmuje szczyt Klimczoka i Skrzycznego, nad kopułą Stołowa, wznosi się masyw Trzech Kopców i Klimczoka. Na szczyt prowadzi szereg szlaków m.in. zielony (z Brennej Ośrodka Zdrowia) czy czarny i zielony (z Brennej centrum)."
+	},
+	{
+	"tittle":"Szczyt Kotarz",
+	"description":"Wysokość 974 m n.p.m. Szczyt Kotarza wznosi się nad Szczyrkiem Soliskiem, a jego stoki opadające ku dolinie Żylicy zajęte są przez piękne, słoneczne polany z doskonałym widokiem na masyw Skrzycznego. Na szczycie znajduje się Ołtarz Europejski. Na szczyt prowadzi szlak niebieski (z Brennej Centrum)."
+	},
+	{
+	"tittle":"Przełęcz Karkoszczonka",
+	"description":"Wysokość 729 m n.p.m. Szerokie siodło pomiędzy Trzema Kopcami, wznoszącymi się od północy obok Klimczoka i Szyndzielni, a Beskidem - na południu. Przełęcz, dzięki swojej wysokości była od wieków uczęszczana przez miejscową ludność jako najdogodniejsze przejście z położonej na Śląsku Cieszyńskim Brennej do Szczyrku. Z przełęczy można się udać do Szczyrku, lub na Klimczok."
+	},
+	{
+	"tittle":"Szczyt Stary Groń",
+	"description":"Wysokość 792 m n.p.m. Na polanie Starego Gronia znajduje się bacówka pasterska. Miejsce zlokalizowane jest tuż obok 12 m wieży widokowej, w pięknym paśmie Beskidu Śląskiego z widokiem m. in. na Dolinę Hołcyny i Brennicy, pasmo Błotnego, Skrzyczne, Orłową, Równicę, pasmo Stożka i Czantorii oraz szczyty Beskidu Śląsko-Morawskiego z dominującą Łysą Górą. Na Stary Groń prowadzi szereg szlaków, m.in. zielony (z Brennej centrum), czarny (z Brennej Ośrodka Zdrowia), żółty, zielony, czarny (z Brennej Leśnicy)."
+	},
+	{
+	"tittle":"Szczyt Orłowa",
+	"description":" Wysokość 813 m n.p.m. Orłowa jest rozległą górą, oddzieloną od samej Równicy głęboko wciętą przełęczą Beskidek (662 m n.p.m.). Z polany szczytowej na Orłowej rozciąga się ładny widok na Równicę oraz Ustroń i Wisłę. Prowadzą na nią szlak żółty (z szkoła w Brennej Leśnicy)."
+	},
+	{
+	"tittle":"Szczyt Trzy Kopce",
+	"description":"Wysokość 1082 m n.p.m. Najwyższy szczyt w Gminie Brenna położony ok. 750 m na południowy zachód od Klimczoka. Graniczny on między miastem Bielsko-Biała, gminą Brenna a Szczyrkiem. Prowadzą do niego szlaki zielony, zółty (z Brennej centrum)."
+	},
+	{
+	"tittle":"Szczyt Równica",
+	"description":"Wysokość 884.6 m n.p.m. Położony pomiędzy dolinami Wisły i Brennicy. Na podszczytowej polanie, na wysokości 758 m n.p.m. znajduje się dawne schronisko PTTK. Spod szczytu rozciąga się rozległa panorama Beskidu Śląskiego ze szczytami Czantorii Wielkiej, Małej, Tułu, Skrzycznego, Soszowa Wielkiego, Baraniej Góry, Malinowskiej Skały. Na szczyt prowadzą szlaki zielony (z Brennej Ośrodka Zdrowia) oraz czarny, żółty (Brenna skrzyżowanie)."
+	},
+	{
+	"tittle":"Taras",
+	"description":"Idealne miejsce na poranna kawe"
+	}
+	
+
+]
+}
