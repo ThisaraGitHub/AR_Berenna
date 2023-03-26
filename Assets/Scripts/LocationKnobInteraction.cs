@@ -40,7 +40,7 @@ public class LocationKnobInteraction : MonoBehaviour
         var material = knobMesh.GetComponent<Renderer>().material;
         material.EnableKeyword("_EMISSION");
         material.globalIlluminationFlags = MaterialGlobalIlluminationFlags.RealtimeEmissive;
-        material.SetColor("_EmissionColor", Color.red * 10);
+        material.SetColor("_EmissionColor", Color.red);
 
         StartCoroutine(StopAnimation());
 
